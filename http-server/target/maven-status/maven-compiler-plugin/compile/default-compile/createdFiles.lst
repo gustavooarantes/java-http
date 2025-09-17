@@ -1,1 +1,4 @@
-com/gustavooarantes/App.class
+com/gustavooarantes/HttpServer.class
+com/gustavooarantes/config/Configuration.class
+com/gustavooarantes/util/Json.class
+com/gustavooarantes/config/ConfigurationManager.class
