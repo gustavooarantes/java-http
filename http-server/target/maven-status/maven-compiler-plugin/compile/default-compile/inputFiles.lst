@@ -1,4 +1,5 @@
 /home/gustavo/Learning/java/http/http-server/src/main/java/com/gustavooarantes/HttpServer.java
 /home/gustavo/Learning/java/http/http-server/src/main/java/com/gustavooarantes/config/Configuration.java
 /home/gustavo/Learning/java/http/http-server/src/main/java/com/gustavooarantes/config/ConfigurationManager.java
+/home/gustavo/Learning/java/http/http-server/src/main/java/com/gustavooarantes/config/HttpConfigurationException.java
 /home/gustavo/Learning/java/http/http-server/src/main/java/com/gustavooarantes/util/Json.java
